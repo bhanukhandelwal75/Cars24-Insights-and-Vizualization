@@ -1,3 +1,8 @@
+# Objective
+
+1.  You have to scrape the data for 2 different metro locations (minimum 500 rows) as per your choice and have to analyze by using tools that you have learned till now 
+2. You are free to consider extra parameters that can enhance your analysis and also eliminate the parameter if it’s not available on the website.
+
 # cars24
 
 Level:1 To scrape the data from the Cars24 website we have used Beautifulsoups and Selenium library in Python.
